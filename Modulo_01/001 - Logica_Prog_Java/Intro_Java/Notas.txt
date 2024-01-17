@@ -1,0 +1,105 @@
+# 01 - Ambientes de Desenvolvimento Com Programação JAVA.
+
+#### Ambientes para desenvolvimento de aplicações mais utilizados são:
+
+- #### NetBeans, Eclipse, BlueJ, Jcreator
+
+  ### Inicialmente será usado o replit.
+
+  
+
+  #### Tipos de dados: 
+
+```java
+class Main{
+  public static void main(String[] args) {
+
+int numero;
+float saldo;
+string nome = "Majulia";
+
+System.out.println("Hello world!");
+ }
+}
+```
+
+
+#### 	Classe string:
+
+```java
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+
+    String valor = "teste";
+      
+    System.out.println(valor.contains("java"));
+    System.out.println(valor.length());
+  }
+}
+```
+  	
+
+	#### 	Entrada e Saída:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+
+	System.out.println("Hello world!");
+	System.out.println("Oláhr mundo");
+	System.out.println("Entre com seu nome:");
+
+	String palavra;
+	Scanner entrada = new Scanner(System.in);
+	palavra = entrada.next();
+
+	System.out.println("Nome: " + palavra);
+	}
+}
+```
+
+
+
+#### 	Operadores aritimeticos:
+
+
+```java
+class Main {
+  public static void main(String[] args) {
+double numA, numB, numC, total;
+numA = 8;
+numB = 6;
+
+total = numA + numB;
+total = numA - numB;
+total = numA * numB;
+total = numA / numB;
+total = numA % numB;
+
+System.out.println(total);
+	}
+}
+```
+  
+
+#### 	Estrutura Sequencial:
+
+
+
+```java
+class Main {
+  public static void main(String[] args) {
+    double base, altura, area;
+    base = 10;
+    altura = 8;
+
+	area = (base * altura) / 2;
+
+	pritnln("A área do retângulo é: " + area);
+	 }
+}
+```
+
