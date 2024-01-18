@@ -1,0 +1,133 @@
+# 02 - Estruturas Condicionais
+
+#### Operadores lógicos relacionam elementos e trazem respostas a uma pergunta. São operadores lógicos: [ >, <, >=, <=, ==, !=, &, ||, && ]
+
+### Exemplo:
+
+```java
+class Main {
+  public static void main(String[] args) {
+	int a, b;
+	a = 4;
+	b = 8;
+
+	System.out.println(a > b);
+	System.out.println(a > b && b == 8);
+    }
+}
+```
+
+
+## 03 - Estruturas Condicionais Simples
+
+#### Estruturas condicionais ramificam o programa dando opções de execução.
+
+### Exemplo:
+
+```java
+int a = 2;
+int b = 4;
+
+if(a > b){
+      System.out.println("a is greater than b");
+    }
+```
+
+
+## 04 - Estrutura Condicional Composta
+
+### Exemplo:
+
+```java
+int a = 2;
+int b = 4;
+
+if(a > b){
+      System.out.println("a is greater than b");
+    }else{
+       System.out.println("b is greater than a");
+    }
+```
+
+
+## 05 - Estrutura Condicional Aninhada
+
+### Exemplo:
+
+```java
+nota a = 2;
+
+if(nota >= 5){
+  System.out.println("Aprovado");
+}else if(nota >= 3 && nota < 5){
+   System.out.println("Recuperação");
+} else{
+    System.out.println("Reprovado.");
+}
+```
+
+
+
+## 06 - Estrutura De Múltipla Escolha
+
+### Exemplo:
+
+
+
+```java
+class Main {
+  public static void main(String[] args) {
+    Scanner entrada = new Scanner(System.in);
+
+        System.out.println("Entre com uma opção: ");
+        System.out.println("1 - Musica ");
+        System.out.println("2 - Filme ");
+        System.out.println("3 - Serie");
+        System.out.println("4 - Livro ");
+
+        int numero = entrada.nextInt();
+
+        switch (numero){
+          case 1: 
+            System.out.println("Lose yourself to dance");
+            break;
+          case 2:
+            System.out.println("O poderoso chefão");
+            break;
+          case 3:
+            System.out.println("The walking dead");
+            break;
+          case 4:
+            System.out.println("O diário de um banana");
+            break;
+          default:
+            System.out.println("Opção inválida");
+            break;
+	}
+}
+```
+
+  
+
+## 07- Jogo de Advinhação:
+
+```java
+import java.util.Scanner;
+import java.utill.Random;
+
+class Main {
+  public static void main(String[] args) {
+    Random gerador = new Random();
+    int x = gerador.nextInt(100);
+    Scannner entrada = new Scanner(System.in);
+    System.out.println("Adivinhe o número que estou pensando");
+    int numero = entrada.nextInt();
+
+    if(numero == x){
+      System.out.println("Parabéns, você acertou!");
+    }else{
+      Systen.out.println("Você errou, o número é " + x");
+	}
+}
+```
+  
