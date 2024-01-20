@@ -1,0 +1,104 @@
+# 04 - Vetores e Matrizes
+
+#### Vetores: conjunto de valores de um mesmo tipo
+
+### Exemplo:
+
+```java
+class Main {
+  public static void main(String[] args) {
+    	int valor;
+    	int[] dados = new int[10];
+
+    	dados[0] = 12;
+    	dados[1] = 6;
+    	dados[2] = 3;
+
+    	System.out.println(dados[0]);
+    }
+}
+```
+
+
+## 02 - Matrizes
+
+#### Vetor de vetores. Possui linhas e colunas, é bidimensional.
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+      int[][] dados = new int[3][3];
+      dados[0][0] = 1;
+
+      for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 3; j++){
+          dados[i][j] = i + j;
+      }
+    }
+  }
+}
+```
+
+## 03 - Utilizando Vetores
+
+#### 
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    
+  }
+}
+```
+
+
+## 04 - 
+
+#### 
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+     
+  }
+}
+```
+
+
+
+## 05 - 
+
+### 
+
+```java
+import java.util.Scanner;
+  public static void main(String[] args) {
+  }
+}
+```
+
+  
+
+## 06 - 
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+  public static void main(String[] args) {
+  }
+}
+```
+
