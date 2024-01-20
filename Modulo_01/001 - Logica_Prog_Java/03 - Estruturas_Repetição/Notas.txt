@@ -1,0 +1,109 @@
+# 03 - Estruturas de Repetição
+
+#### Estrutura de repetição for. Repete dentro de um intervalo.
+
+### Exemplo:
+
+```java
+class Main {
+  public static void main(String[] args) {
+	for (int contador = 0; contador < 10; contador++) {
+      	System.out.println("Dia " + contador);
+    }
+    }
+}
+```
+
+
+## 02 - Estrutura de repetição while
+
+#### Repete enquanto uma condição for verdadeira. Comparação feita no início.
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    int opcao = 1;
+
+    while(opcao != 0){
+      System.out.println("Entre com qualquer valor ou 0                             						para sair");
+      Scanner entrada = new Scanner(System.in);
+      opcao = entrada.nextInt();
+    }
+  }
+}
+```
+
+## 03 - Estrutura DoWhile
+
+#### Teste feito no final, executa um trecho de código pelo menos uma vez.
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    int opcao;
+
+    do{
+      System.out.println("Entre com qualquer valor ou 0                             						para sair");
+      Scanner entrada = new Scanner(System.in);
+      opcao = entrada.nextInt();
+    }while(opcao != 0);
+  }
+}
+```
+
+
+## 04 - Estrutura Aninhada
+
+#### Estrutura de repetição dentro de outra.
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+      for(int i = 0; i<= 10; i++){
+        for(int j = 0; j<= 10; j++)
+          Prinln(i + " * " + j + " = " + (i*j));
+      }
+  }
+}
+```
+
+
+
+## 05 - Métodos
+
+#### Reaproveitamento de código que permite reutilizar um trecho de código.
+
+### Exemplo:
+
+```java
+import java.util.Scanner;
+
+class Main {
+    
+    
+  public static int Somar(int a, int b) {
+    return a + b;
+  }
+
+  public static void main(String[] args) {
+    int total = Main.Somar(10, 50);
+    System.out.println(total);
+  }
+}
+```
+
+  
+
+## 
