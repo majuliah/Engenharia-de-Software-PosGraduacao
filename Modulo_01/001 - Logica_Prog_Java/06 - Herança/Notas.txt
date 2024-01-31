@@ -1,0 +1,225 @@
+# 06 - Herança
+
+#### Conceitos: Diferentes classes se relacionam entre si, compondo novos tipos de objetos. Herança é uma forma de reutilização de código, pois uma classe pode ser criada reutilizando membros de outra classe. 
+
+### Exemplo:
+
+```java
+public class Pessoa {
+  string nome;
+  string rg;
+  string cpf;
+}
+```
+
+```java
+class Vendedor extends pessoa {
+  double comissao;
+}
+```
+
+```java
+public class Main {
+  public static void main(String[] args) {
+
+  Pessoa p1 = new Pessoa("João", "123");
+
+    
+  Vendedor v1 = new Vendedor("Maria", "456", 5000.0, 10.0);
+  Vendedor v2 = new Vendedor();
+    v2.nome("José");
+    v2.cpf("789");
+    v2.comissao(6000.0);
+  }
+}
+```
+
+
+
+## 02 - Composição
+
+#### Ao contrário de herança que significa que uma coisa é outra, na composição vemos como uma coisa TEM outra. 
+
+#### Herança: Bicicleta é um meio de transporte. |     Composição: bicicleta tem roda
+
+### Exemplo:
+
+```java
+public class Item{
+  
+  public Itens(){}
+
+}
+```
+
+```java
+public class Pedido{
+  private Itens i;
+
+  public Pedido(){
+    i = new Itens();
+  }
+}
+```
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    
+    Pedido p = new Pedido();
+  }
+}
+```
+
+
+
+## 03 - Classes abstratas
+
+#### Classes abstratas não podem ser instanciadas, elas só servem de base para definir atributos e métodos.
+
+### Exemplo:
+
+```java
+public abstract class Conta {
+  private double saldo;
+
+  public setSaldo(double saldo){
+    this.saldo = saldo;
+  }
+
+  public double getSaldo() {
+    return saldo;
+  }
+  public abstract void imprimeExtrato();
+}
+```
+
+```java
+public class Poupanca extends Conta {
+  
+  public void imprimeExtrato() {
+    System.out.println("Saldo: " + this.getSaldo());
+  }
+  
+}
+```
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    
+    Conta cp = new Poupanca();
+    cp.setSaldo(5000);
+    cp.imprimeExtrato();
+  
+  }
+}
+```
+
+
+
+## 04 - Interface
+
+#### Métodos obrigatórios a serem implementados em objetos.
+
+### Exemplo:
+
+```java
+interface Conta {
+  void depositar(double valor);
+  void sacar(double valor);
+  double getSaldo();
+}
+```
+
+```java
+public class Poupanca implements Conta {
+  private double saldo;
+
+  public void depositar(double valor) {
+    this.saldo += valor;
+  }
+
+  public double getSaldo() {
+    return this.saldo;
+  }
+
+  public void sacar(double valor){
+      this.saldo -= valor;
+    }
+}
+```
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    
+    Conta conta = new Poupanca();
+    conta.depositar(100);
+    conta.sacar(50);
+    conta.getSaldo();    
+  }
+}
+```
+
+
+
+## 05 - Tratamento de Exceções
+
+#### Um evento, erro que precisa ser justificada ao usuário. 
+
+### Exemplo:
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Enter a number");
+    try {
+      int number = scanner.nextInt();
+      System.out.println(number);
+    } catch (Exception e) {
+      System.out.println("Invalid input");
+    }
+  }
+}
+```
+
+  
+
+## 06 -  Exemplo prático
+
+```java
+class Animal {
+  string nome;
+
+  public void setNome(string nome) {
+    this.nome = nome;
+  }
+
+  public string getNome() {
+    return this.nome;
+  }
+
+  public void Comer() {
+    Systen.out.println("Comendo...");
+  }
+}
+
+class Cachorro extends Animal {
+  public void mostrar() {
+    System.out.println("meu nome é: " + nome);
+  }
+}
+```
+
+```java
+class Main {
+  public static void main(String[] args) {
+    Cachorro pingo = new Cachorro();
+    pingo.setNome("Pingo");
+    pingo.mostrar();
+  }
+}
+```
+
