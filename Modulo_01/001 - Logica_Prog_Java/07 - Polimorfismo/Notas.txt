@@ -1,0 +1,149 @@
+# 07 - Polimorfismo
+
+#### Conceitos: permite que um mesmo método possua várias formas, várias implementações.
+
+### Exemplo:
+
+```java
+class Poligono{
+  public void desenhar(){
+    System.out.println("Desenhando poligono");
+  }
+}
+```
+
+```java
+class Circulo extends Poligono{
+  public void desenhar(){
+    System.out.println("Desenhando circulo");
+  }
+}
+```
+
+```java
+class Quadrado extends Poligono{
+  public void desenhar(){
+    System.out.println("Desenhando quadrado");
+  }
+}
+```
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    Quadrado q1 = new Quadrado();
+    q1.desenhar();
+
+    Circulo c1 = new Circulo();
+    c1.desenhar();
+  }
+}
+```
+
+
+
+## 02 - Sobrecarga de métodos
+
+#### Um método pode possuir diferentes assinaturas e o mesmo nome.
+
+### Exemplo:
+
+```java
+class Desenho {
+
+  // método sem parâmetro
+  public void Mostrar() {
+    for (int i = 0; i < 10; i++) {
+      System.out.println("*");
+    }
+  }
+
+  // método com um parâmetro
+  public void Mostrar(char simb) {
+    for (int i = 0; i < 10; i++) {
+      System.out.println(simb);
+    }
+  }
+
+  // método com dois parâmetro
+  public void Mostrar(char simb, int limite) {
+    for (int i = 0; i < limite; i++) {
+      System.out.println(simb);
+    }
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    Desenho d1 = new Desenho();
+    d1.Mostrar();
+    d1.Mostrar('#');
+    d1.Mostrar('$', 3);
+  }
+}
+```
+
+## 03 - Sobrescrita de métodos
+
+#### Sobrecarga mesmo nome e assinaturas diferentes, sobrescrita mesmo nome de método e os retornos são a mesma coisa.
+
+### Exemplo:
+
+```java
+class Linguagem {
+  public void mostrarInformacao() {
+    System.out.println("Lingua Portuguesa");
+  }
+}
+
+class Java extends Linguagem {
+  public void mostrarInformacao() {
+    System.out.println("Linguagem Java");
+  }
+
+  class Python extends Linguagem {
+    public void mostrarInformacao() {
+      System.out.println("Linguagem Python");
+    }
+  }
+
+  public class Main {
+  public static void main(String[] args) {
+    Java j1 = new Java();
+    j1.mostrarInformacao();
+
+    Linguagem l1 = new Linguagem();
+    l1.mostrarInformacao();
+  }
+}
+```
+
+
+
+## 04 - Método ToString
+
+#### Objeto de manipulação de strings. 
+
+### Exemplo:
+
+```java
+public class Main {
+  public static void main(String[] args) {
+      String primeira = "Java";
+      String segunda = "Csharp";
+      String terceira = new String("Python");
+
+    System.out.println(primeira.toLowerCase());
+    System.out.println(segunda.length());
+    System.out.println(terceira);
+
+    //comparar a primeira com a segunda
+    boolean result = primeira.equals(segunda);
+    System.out.println("primeira == segunda? " + result);
+
+    result = segunda.equals(terceira);
+    System.out.println("segunda == terceira? " + result);
+  }
+}
+```
+
