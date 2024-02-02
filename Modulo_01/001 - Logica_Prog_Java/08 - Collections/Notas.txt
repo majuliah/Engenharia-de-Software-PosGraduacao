@@ -1,0 +1,158 @@
+# 08 - Collections
+
+#### Conceitos: Como organizar nossas coleções. Iterator e Comparator.
+
+#### A interface Iterator faz parte de um framework de collections, onde o java nos permite acessar elementos de uma coleção. Ele possui uma subinterface ListIterator.
+
+### Exemplo: 
+
+```java
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class Main {
+  public static void main(String[] args) {
+    Arraylist<Integer> numeros = new ArrayList<>();
+    numeros.add(1);
+    numeros.add(2);
+    numeros.add(3);
+
+    System.out.println("ArrayList: " + numeros);
+
+    //Iterator
+    Iterator<Integer> it = numeros.iterator();
+
+    int numero = it.next();
+    System.out.println("Elemento: " + numero);
+
+    while(it.hasNext()){
+      it.forEachRemaining((value) -> System.out.print("Valor: " + value + " "));
+    }
+  }
+}
+```
+
+
+## 02 - LinkedList
+
+#### Listas ligadas, onde um elemento está conectado um com o outro possuindo informações do elemento anterior e do próximo elemento.
+
+### Exemplo:
+
+```java
+import java.util.LinkedList;
+import java.util.Iterator;
+
+public class Main {
+  public static void main(String[] args) {
+    LinkedList<String> animais = new LinkedList<String>();
+    animais.add("cachorro");
+    animais.add("gato");
+    animais.add("cavalo");
+    animais.add("vaca");
+
+    System.out.println("LinkedList: " + animais);
+
+    animais.add(2, "galinha");
+  }
+}
+```
+
+## 03 - HashSet
+
+#### Fornece estruturas da tabela hash. É uma coleção onde podemos organizar valores.
+
+### Exemplo:
+
+```java
+import java.util.HashSet;
+import java.util.Iterator;
+
+public class Main {
+  public static void main(String[] args) {
+    HashSet<Integer> numeros = new HashSet<Integer>();
+    numeros.add(1);
+    numeros.add(2);
+    numeros.add(3);
+    numeros.add(4);
+
+    Iterator<Integer> it = numeros.iterator();
+    while(it.hasNext()){
+      System.out.println(it.next());
+    }
+  }
+}
+```
+
+
+
+## 04 - TreeSet
+
+#### Conceito de árvores, um valor é conectado a outros de forma hierárquica.
+
+### Exemplo:
+
+```java
+import java.util.TreeSet;
+import java.util.Iterator;
+
+public class Main {
+  public static void main(String[] args) {
+    TreeSet<String> set = new TreeSet<String>();
+    set.add("George");
+    set.add("Jim");
+    set.add("John");
+    set.add("Blake");
+
+    System.print.out.ln("TreeSet" + set);
+    System.print.out.ln("First: " + set.first());
+
+    boolean result = set.remove("Jim");
+    System.print.out.ln("Remove Jim: " + result);
+
+    result = set.removeAll();
+    System.print.out.ln("Remove All: " + result);
+
+  }
+}
+```
+
+
+
+## 05 - Projeto com Listas
+
+### Exemplo:
+
+```java
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class Main {
+  public static void main(String[] args) {
+    ArrayList<String> linguagens = new ArrayList<String>();
+    linguagens.add("Java");
+    linguagens.add("C#");
+    linguagens.add("Python");
+
+    System.out.println("ArrayList: " + linguagens);
+
+    String[] arr = new String[linguagens.size()];
+    linguagens.toArray(arr);
+
+    System.out.println("Array: ");
+
+    for (String item : arr) {
+      System.out.println(item);
+    }
+  }
+}
+```
+
+  
+
+## 06 -  Saiba mais
+
+#### Documentações.
+
+
+
