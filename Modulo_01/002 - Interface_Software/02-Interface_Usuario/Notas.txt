@@ -1,0 +1,55 @@
+# 01 - Experiência do Usuário
+
+## O que é UX? Por que é importante?
+
+#### UX -> User Experience. A experiência do usuário é tudo relacionado ao serviço e não somente as telas em que interagimos. É algo que seja útil, confiável, acessível, encontrável, usável e valorosa. É a experiência de interagir e deve ser boa para interagir.
+
+## 02 -  A relação entre UX e UI
+
+#### A UI é a User Interface onde é o desenho da interface em que o usuário interage.  A UI é uma parte da UX
+
+<img src="https://public-images.interaction-design.org/literature/articles/materials/0PDjjrjx5dZcsnAgazAT9qHBgCOGEQqpzoemddof.jpg" alt="5-elements-of-ux" style="zoom: 33%;" />
+
+#### Tarefa: O que impacta na experiência de um produto que não seja somente a parte em que interagimos?
+
+
+
+## 03 - Os tipos de UX no mercado de trabalho
+
+#### A experiência envolve muitos fatores, então possuem muitas vertentes para especialização do conteúdo de experiência. Alguns tipos: 
+
+- #### UX DESIGN: Experiência completa, da interface. Pode trabalhar com o design ou toda a experiência. Não é uma área muito definida. Podem ser diversas funções. É esperado que o profissional desenhe a interface e a experiência.
+
+- #### UX RESEARCH: Muitas pesquisas como concorrentes, mercado de trabalho, dos usuários que vão utilizar (público alvo), o profissional somente faz as pesquisas para gerar a experiência.
+
+- #### UX WRITING: Faz pesquisas para gerar textos específicos para a experiência de usabilidade do produto, tais como texto de botões, telas iniciais, mensagens, etc.
+
+- #### UX METRICS: Métricas, a pessoa cuida de medir, tais como o que medir, como medir e como acompanhar as medições. Um exemplo é: como confirmar que o produto teve uma boa repercussão, como o produto teve uma melhora confirmada etc. 
+
+- #### UX STRATEGY: Estratégia e planejamento. É uma forma de definir como ser melhor, tem a ver com marketing. Define como ser melhor, é um planejamento maior.  
+
+  - #### UI DESIGN: Layout, design, interface -> Faz especificamente define, desenha o layout. 
+
+  - #### FRONT-END: Programação e código. Pega a interface dada pelo design e implementa através de códigos. 
+
+## 04 - As entregas de UX:
+
+#### O que o profissional de UX entrega: Quais os artefatos. São eles:
+
+- #### Protótipos: São simulações. 
+
+- #### Jornadas de usuários: Um desenho de uma linha do tempo contendo as simulações das ações do usuário. A jornada perfeita, como esperamos, do momento atual e do momento futuro
+
+- #### Wireframes: São protótipos simples, rascunhos da tela.
+
+- #### Personas: A representação dos usuários.
+
+- #### Relatórios de pesquisa e análise
+
+- #### Relatórios de usabilidade
+
+- #### Diagramas, fluxos, mapas
+
+- #### Bibliotecas, glossários
+
+- #### Apresentações
