@@ -1,55 +1,37 @@
-# 01 - Experiência do Usuário
+# 02 - Interface do Usuário
 
-## O que é UX? Por que é importante?
+## O designer e as entregas de UI
 
-#### UX -> User Experience. A experiência do usuário é tudo relacionado ao serviço e não somente as telas em que interagimos. É algo que seja útil, confiável, acessível, encontrável, usável e valorosa. É a experiência de interagir e deve ser boa para interagir.
+#### Designer é a pessoa criadora e design é o produto que ela cria. Ele entrega harmonia da tela como o alinhamento de itens, proporções dos elementos, estilos dos elementos, hierarquia das informações, legibilidade e diagramação das fontes. Ela entrega também apresentações, relatórios, protótipos, pesquisas, entregas para frontend. Basicamente é o cuidado em entregar a melhor experiência possível para o usuário.
 
-## 02 -  A relação entre UX e UI
+## 02 -  As partes de uma interface digital
 
-#### A UI é a User Interface onde é o desenho da interface em que o usuário interage.  A UI é uma parte da UX
+- #### Cabeçalho, miolo e rodapé. Em cada um pode haver:
 
-<img src="https://public-images.interaction-design.org/literature/articles/materials/0PDjjrjx5dZcsnAgazAT9qHBgCOGEQqpzoemddof.jpg" alt="5-elements-of-ux" style="zoom: 33%;" />
+  - #### menu, imagens, botões, campos, ícones, textos e links
 
-#### Tarefa: O que impacta na experiência de um produto que não seja somente a parte em que interagimos?
+  - #### Padronização, consistência visual: manter os elementos harmoniosos. São eles:
 
+    - ### Cores, fontes, componentes, interação, consistência visual.
 
+  #### Para praticar: visualizar elementos em telas e descreve-los
 
-## 03 - Os tipos de UX no mercado de trabalho
+## 03 - Dispositivos e responsividade
 
-#### A experiência envolve muitos fatores, então possuem muitas vertentes para especialização do conteúdo de experiência. Alguns tipos: 
+#### São diferentes telas em que o produto será reproduzido. A responsividade é como uma tela responde a um dispositivo. São layouts:
 
-- #### UX DESIGN: Experiência completa, da interface. Pode trabalhar com o design ou toda a experiência. Não é uma área muito definida. Podem ser diversas funções. É esperado que o profissional desenhe a interface e a experiência.
+- ### Layout fixo: Não muda, somente para um dispositivo específico.
 
-- #### UX RESEARCH: Muitas pesquisas como concorrentes, mercado de trabalho, dos usuários que vão utilizar (público alvo), o profissional somente faz as pesquisas para gerar a experiência.
+- ### Layout fluído: Tamanho dos elementos definido por porcentagem. Se altera conforme o dispositivo
 
-- #### UX WRITING: Faz pesquisas para gerar textos específicos para a experiência de usabilidade do produto, tais como texto de botões, telas iniciais, mensagens, etc.
+- ### Layout adaptativo: Layouts fixos pré definidos e o mais próximo ao tamanho da tela é exibido.
 
-- #### UX METRICS: Métricas, a pessoa cuida de medir, tais como o que medir, como medir e como acompanhar as medições. Um exemplo é: como confirmar que o produto teve uma boa repercussão, como o produto teve uma melhora confirmada etc. 
+- ### Layout responsivo responde ao tamanho, resolução, orientação da tela
 
-- #### UX STRATEGY: Estratégia e planejamento. É uma forma de definir como ser melhor, tem a ver com marketing. Define como ser melhor, é um planejamento maior.  
+#### As grids ajudam a medir as resoluções para que seja mais fiel possível em um determinado dispositivo.
 
-  - #### UI DESIGN: Layout, design, interface -> Faz especificamente define, desenha o layout. 
+## 04 - O design system
 
-  - #### FRONT-END: Programação e código. Pega a interface dada pelo design e implementa através de códigos. 
+#### Sistema de design é um sistema composto dos elementos que serão aplicados ao produto. São definidos de forma consistente em todo produto para criar a sensação de um projeto. As partes são tipografia, forma, cor e grid. Pode existir também padrão de texto, tom de voz, estratégia de conteúdo. Nos ajuda a economizar tempo e ter uma garantia de que um produto será padronizado, mantendo consistência e padrão visual.
 
-## 04 - As entregas de UX:
-
-#### O que o profissional de UX entrega: Quais os artefatos. São eles:
-
-- #### Protótipos: São simulações. 
-
-- #### Jornadas de usuários: Um desenho de uma linha do tempo contendo as simulações das ações do usuário. A jornada perfeita, como esperamos, do momento atual e do momento futuro
-
-- #### Wireframes: São protótipos simples, rascunhos da tela.
-
-- #### Personas: A representação dos usuários.
-
-- #### Relatórios de pesquisa e análise
-
-- #### Relatórios de usabilidade
-
-- #### Diagramas, fluxos, mapas
-
-- #### Bibliotecas, glossários
-
-- #### Apresentações
+#### 

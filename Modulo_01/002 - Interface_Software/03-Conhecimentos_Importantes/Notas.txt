@@ -1,0 +1,52 @@
+# 03 - Conhecimentos Importantes
+
+## Identidade Visual
+
+#### É um sistema que proporciona identidade a uma empresa, produtos e serviços. Um exemplo é o M do mcdonalds, com a identidade visual única e representa a empresa. Um manual de identidade visual e registra a representação visual com tudo a ser considerado quando alguém vai desenhar ou criar algo para a empresa. Solicitar a identidade visual da marca é algo muito importante. 
+
+## 02 -  Arquitetura de Informação
+
+#### É a organização de informações que trazem clareza ao invés de complexidade, dessa forma se cria uma estrutura ou mapa de informações que possibilite outras pessoas a encontrarem seus caminhos pessoais para conhecimento.  É um wireframe. A arquitetura reduz o custo do usuário encontrar o que deseja, evita retrabalho, traz mais satisfação, mais segurança ao navegar, mais engajamento do usuário, aumentando valor da marca. 
+
+- ### Organização: como vamos ordenar as informações
+
+- ### Rotulação: formas de apresentação da informação, definido signos para cada elemento informativo com padrões de escrita, estilo, ícones
+
+- ### Navegação: maneiras de navegar e se encontrar dentro do sistema, como se mover naquele espaço, a localização e a mostra do caminho para o usuário
+
+- ### Busca: Perguntas que o usuário pode fazer e o conjunto de resposta que obterá. É um tipo de navegação
+
+## 03 - Usabilidade
+
+#### Medida de uso de um produtos com eficácia, eficiência e satisfação. O quanto ele é bom ou ruim. Eficácia é atingir um objetivo. Eficiência é a melhor forma de atingir um objetivo. Medimos a usabilidade em um produto específico com um usuário específico em um contexto específico.
+
+## 04 - Heurística
+
+#### São regras para seguir e obter uma boa usabilidade. 10 heurísticas de usabilidade de interface por Jakob Nielsen:
+
+1. ### Manter os usuários informados do que está acontecendo
+
+2. ### Falar as palavras do usuário: idioma, forma de falar, etc
+
+3. ### Dar controle e liberdade ao usuário: não prender ele e não obrigar ele a nada
+
+4. ### Manter a consistência: padrões
+
+5. ### Eliminar chances de erros: Verificar se a ação que o usuário quer é possível
+
+6. ### Não contar com a memória do usuário: dar mecanismos de lembranças
+
+7. ### Manter os iniciantes e os avançados
+
+8. ### Só apresentar o que é importante
+
+9. ### Ajude os usuários a se recuperarem de erros: se previnir de erros
+
+10. ### Ofereça ajuda através de facs, comunicação, etc
+
+## 05 - Acessibilidade
+
+#### Necessidades mais comuns que podem impactar o uso de um produto digital são cegueira ou baixa visão, daltonismo, surdez, deficiências cognitivas e restrição de habilidades motoras. Devemos observar a linguagem de programação, descrição de elementos de imagens, legendas de áudios e vídeos, tradução em libras, observação de cores e contrastes, alternativas visuais ao som, tamanho de áreas clicáveis para permitir acesso a pessoas com baixa visão, dentre outras.
+
+
+
