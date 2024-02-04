@@ -1,0 +1,36 @@
+# 04 - Metodologias de Design
+
+## Tipos de metodologias
+
+#### Há no mercado diversas metodologias de design. Todo processo de design é tanto um processo criativo como um processo de solução de problemas. Tipos de metodologias: Duplo diamante. Abre possibilidades e depois afunila. Exemplos encontrados no IDEO.org
+
+#### Nas metodologias diversas temos semelhanças como entender o problema, captar informações, captar ideias, validar, ciclos iterativos e times multidisciplinares. 
+
+## 02 -  Design Thinking
+
+![](https://th.bing.com/th/id/OIP.d4pphgOOrde01YMBW0nIswHaFU?rs=1&pid=ImgDetMain)
+
+#### Ciclos iterativos, interagindo com diversas pessoas de diferentes áreas do projeto.
+
+## 03 - Por que aplicar o Design Thinking?
+
+#### Empresas como Natura, Havaianas, Uber Eats, AMBEV, Netflix, Samsung, Google utilizam Design Thinking.
+
+#### Benefícios são: Conhecer usuários e contextos, pesquisas constantes, validar antes de implementar, chances de inovação, integração do time, etc.
+
+## 04 -  Design Sprint
+
+#### Uma forma de testar e aplicar novas ideias em apenas 5 dias. Um dia para cada fase do design thinking, aplicando de forma dinâmica. 
+
+#### Dia 1: Mapear
+
+#### Dia 2: Esboçar
+
+#### Dia 3: Decidir
+
+#### Dia 4: Prototipar
+
+#### Dia 5: Testar
+
+
+
