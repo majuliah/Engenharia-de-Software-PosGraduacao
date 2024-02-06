@@ -1,0 +1,32 @@
+# 05 - Fases de Empatia e Definição
+
+## Pesquisas quantitativas e qualitativas
+
+#### Pesquisa QUANTITATIVA: Informações mais estatísticas, com quantidades, números(acessos, tempo, venda, dinheiro). Informações estatísticas. 
+
+#### Pesquisa QUALITATIVA: Respostas descritivas dos usuários(gosto, prefiro, acho, porque). 
+
+#### Quando fazemos pesquisas quantitativas e quando fazemos qualitativas?
+
+## 02 -  Entrevistas com o usuário
+
+#### Podem ser aplicadas em qualquer momento do projeto: antes, durante e após o lançamento. Pesquisando conseguimos compreender emoções, motivação e comportamentos. 
+
+## 03 - Personas e jornadas
+
+#### Jornada de usuários são as ações que o usuário executa. Persona é a representação de uma pessoa real. Então a jornada de uma persona. Podemos ter grupos diferentes de personas. Existe um mapa de empatia para descrevermos uma persona de forma mais fiel possível. A jornada é: todos os pontos da jornada de uma persona, através de pesquisa
+
+## 04 -  Nosso exemplo: a pesquisa e a definição do e-commerce
+
+#### Empresa de serviços digitais especializados em território nacional. 
+
+#### Pesquisa quantitativa: Questionário online para 100 pessoas: pessoas com mais de 50 gostam de viajar, mulheres gostam de organizar toda a viagem com antecedência
+
+#### Pesquisa qualitativa: Entrevista com pessoas que gostam de viajar para saber seus gostos e hábitos: não gostam dos horários dos ônibus, não habituado a tecnologias mais avançadas, querem mais liberdade e gostam de sugestões de quem conhece
+
+##### Descobrindo essas informações, é possível gerar experiências mais assertivas. 
+
+
+
+
+
