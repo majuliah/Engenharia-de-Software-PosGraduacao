@@ -1,0 +1,28 @@
+# 09 - Metodologias Ágeis
+
+## SCRUM
+
+#### Criada com base em valores e princípios ágeis. São 12 valores  que dão mais valor a pessoas e interações, software em funcionamento tem mais valor que a documentação, etc. Exige que em um time exista funções, papéis, responsabilidades e regularuidade de encontros. Dividida em ciclos interativos chamados de sprint. 
+
+## 02 -  Lean UX e UX Ágil
+
+#### Lean UX teve base no livro startup Enxuta, onde você coinstrói, mede e aprende com MVP(produtos minimos viáveis) para testar hipóteses, errar e aprender rápido de forma cíclica.
+
+#### Agile UX é uma metodologia que segue o manifesto Ágil onde designers e desenvolvedores trabalham juntos e aprendendo a cada ciclo.
+
+#### Colaboração do time, protótipo funcional e aprender rápido são características básicas das duas metodologias.
+
+## 03 - Exemplo: projeto do sitew na metodologia ágil
+
+#### Colocando em prática as etapas anteriores, uma técnica de criatividade é a técnica do barco. 
+
+#### Isto é, 4 minutos para definir coisas que vão levar o produto para frente e depois 4 minutos para dizer coisas que estagnam o produto. Dos itens mais votados, serão criadas ideias para resolver os problemas e ideias de implementação das soluções. Avaliando uma por uma de como implementar as propostas. 
+
+## 04 -  Exercício: Ideação do site
+
+##### A metodologia ágil não é engessada. Ela deve se adaptar e se adequar a nossos projetos. 
+
+
+
+
+
