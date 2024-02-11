@@ -1,0 +1,30 @@
+# 05 - Fases de Prototipação
+
+## Alta e baixa fidelidade
+
+#### É um teste antes do lançamento do produto final. É um protótipo, e é uma atividade cíclica para responder a perguntas que ajudam a chegar à solução final. Nas fases iniciais de um projeto, devemos criar protótipos que sejam rápidos de fazer e testar. 
+
+#### A fidelidade é ser fiel ao layout, alta fidelidade é ser muito fiel ao layout. 
+
+#### A Alta fidelidade tem o layout aplicado e são mais garantidos na fase de testes. Podem levar mais tempo e esforço. Já na baixa fidelidade temos textos e elementos principais e sem o layout aplicado, é rápido de fazer e ajustar.
+
+## 02 -  Ferramentas de Prototipação
+
+#### Papel, Lápis, quadro branco, papelão. 
+
+#### Power point, excel.
+
+#### Ferramentas com protótipos navegáveis, dinâmicos, com animação em constante mudança: Figma, Adobe XD
+
+## 03 - A entrega do arquivo: handoff
+
+#### É o protótipo de alta fidelidade, com layout e depende da sua ferramenta de prototipação. É a entrega do layout para o profissional de frontend. Contém todos os assets.
+
+## 04 -  Exercício: O protótipo e a entrega
+
+##### 
+
+
+
+
+
