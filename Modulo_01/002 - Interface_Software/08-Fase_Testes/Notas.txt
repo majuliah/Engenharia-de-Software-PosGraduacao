@@ -1,0 +1,28 @@
+# 08 - Fases de Testes
+
+## Por que fazer testes com o usuário
+
+#### Errar rápido para errar mais barato. Se testarmos com o protótipo, erramos mais barato, o produto não vai para o ar com o erro. 
+
+#### Além de errar com o protótipo, nos organizamos para atualizações futuras. Custa mais barato que arrumar depois de lançado e leva menos tempo que consertar o erro. É ideal testar com 3 a 5 de cada persona. Testes são bem vindos em qualquer momento do projeto. 
+
+## 02 -  Teste de usabilidade
+
+#### É um tipo de teste muito utilizado no mercado de trabalho. É uma medida de eficácia, eficiência e satisfação. 
+
+#### No teste de usabilidade temos usuários representativos com roteiros passo a passo e uma pessoa anotando.
+
+## 03 - Exemplo: testando com o usuário
+
+#### 2 personas. 5 usuários de cada persona. Podemos fazer testes com baixa fidelidade de layout. Anotar todas as infos sobre a experiência dos usuários.
+
+#### 
+
+## 04 -  E depois dos testes?
+
+#### O que fazemos depois do teste é tão importante quanto as fases de testes. Os resultados devem ser levados a uma reunião de alinhamento com toda a equipe no ambiente de trabalho, até com o dono. É preciso um relatório com os achados e deixar em um local visível a toda a equipe. Todos os problemas serão designados para seus respectivos profissionais de suas áreas.
+
+
+
+
+
