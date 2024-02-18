@@ -1,0 +1,40 @@
+# 01 - Aurora da gestão de projetos
+
+## Introdução ao Gerenciamento de Projeto
+
+#### Gerenciamento de projetos tem sido praticado desde o início da civilização, sendo que até 1900 os projetos de engenharia civil eram geralmente administrados pelos próprios engenheiros ou por algum arquiteto criativo. Desde 1950 que as organizações começaram a utilizar sistemicamente o gerenciamento de projetos, suas ferramentas e técnicas. Coisas assim culminaram em projetos como apollo que mandou o homem para a lua. 
+
+#### Henry Gantt é o homem considerado o pai das técnicas de planejamento e controle, o Gantt Char. 
+
+#### Henry Fayol criou as 5 funções gerenciais: prever e planejar, organizar, comandar, coordenar e controlar.
+
+#### Ambos estudaram as técnicas de Frederick Winslow Taylor sobre adm. científica. 
+
+#### Com isso foi criado o PMBOK Guide (Project Management Body Knowledge) que contém padrões e orientações que são largamente adotadas ao redor do mundo.
+
+## 02- Conceitos e Definições Gerais
+
+#### Alguns fatores que são necessários a levar em consideração em um gerenciamento de projetos: 
+
+![]()
+
+#### PMBOK, PMI, PMO
+
+- #### PMBOK ou Project Management Body of Knowledgement é o corpo de Conhecimentos em Gerenciamento de Projetos
+
+- #### PMI ou Project Managemnent Institute é o instituto de gerenciamento de projetos
+
+- #### PMO ou Project Management Office é o escritório de gerenciamento de projetos
+
+#### PROJETO é algo temporário e único e PROCESSO é medido e realizado contínuamente através de métricas. 
+
+#### Partes interessadas, principais stakeholders são: gerente de projeto, cliente, membros da equipe, organização executora, patrocinador, usuários, etc.
+
+#### Existem passos a serem tomados após o fim do projeto.
+
+## 03- Tipos de Organizações, Características e Fases
+
+## 04-
+
+
+
