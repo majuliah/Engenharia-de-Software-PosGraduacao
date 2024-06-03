@@ -1,0 +1,34 @@
+# 01 - Habilidades Técnicas e Psicossociais
+
+## Outras metodologias de GP
+
+#### Metodologias hoje em dia possuem princípios ágeis. O PMI e PMBOK é um livro que possui um compilado de boas práticas, uma lista extensa de padrões com alguns processos e definem de forma leve os processos que utilizam metodologias. 
+
+#### Projetos com princípios ágeis estão relacionados com flexibilidade, entrega algo seguindo princípios com agilidade, ritmo e entrega constante. 
+
+[9 Project Management Methodologies Made Simple (thedigitalprojectmanager.com)](https://thedigitalprojectmanager.com/projects/pm-methodology/project-management-methodologies-made-simple/)
+
+![usabilidade de cada metodologia]()
+
+#### Fatores que influenciam a escolha da metodologia:
+
+- #### Fatores por simplicidade ou complexidade, rigidez ou flexibilidade do ambiente de trabalho
+
+- #### O que oferece mais valor, potencializando os objetivos do projeto, listando valores organizacionais e de equipe.
+
+#### A agilidade não é um método, ela é um importante conjunto de princípios pra desenvolvimento. Princípios descritos no manifesto ágil.
+
+## 02- Metodologia PMBOK
+
+#### 
+
+## 03- Hard Skill 
+
+#### São habilidades e capacidades específicas que uma pessoa pode possuir e demonstrar. Ela demonstra a maestria e experiência para realizar uma tarefa específica ou uma série de tarefas para executar um trabalho. Gerentes de projetos também precisam ter hardskill tais como negociação, habilidades de técnicas relevantes como leitura de artigos, escrita e linguajar adequado, organização, priorização e definição de metas, planejamento de projetos, delegação, administração de orçamento, constante melhorias em práticas em gerenciamento de projetos. 
+
+## 04-  Soft Skill
+
+#### Habilidades pessoais ou psicossociais relevantes relacionadas a maneira de trabalho. Incluem como a pessoa interage com os colegas, como resolve problemas e como gerencia o trabalho.
+
+
+
